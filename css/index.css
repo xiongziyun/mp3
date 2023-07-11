@@ -116,7 +116,22 @@ a{
 .center-header .handle-list a:hover{
     opacity: 1;
 }
-.center-header .handle-list a i{
+.search{
+    margin-top: 20px;
+}
+.search input{
+    width: 240px;
+    padding: 8px 15px;
+    background: transparent;
+    outline: none;
+    border: 1px solid #fff;
+    opacity: 0.5;
+    color: #fff;
+}
+.search input::placeholder{
+    color: #fff;
+}
+/* .center-header .handle-list a i{
     display: inline-block;
     width: 20px;
     height: 20px;
@@ -134,7 +149,7 @@ a{
 }
 .center-header .handle-list a:nth-child(5) i{
     background: url("../img/icon_sprite.png") no-repeat -40px -300px;
-}
+} */
 .music-list-box{
     position: relative;
     height: calc(100% - 58px);

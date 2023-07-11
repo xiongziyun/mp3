@@ -13,32 +13,26 @@
   <script src="js/main.js"></script>
 </head>
 <body>
-  <header class="header">
-    <div class="logo">
-      <a href="javascript:;"><img src="img/player_logo.png" alt=""></a>
-    </div>
-    <ul>
-      <li><a href="javascript:;">登录</a></li>
-      <li><a href="javascript:;">设置</a></li>
-    </ul>
-  </header>
 
   <section class="center">
     <div class="w">
       <div class="center-content-left">
           <div class="center-header">
             <div class="handle-list">
+              <a href="javascript:;"><i></i>全部</a>
               <a href="javascript:;"><i></i>收藏</a>
-              <a href="javascript:;"><i></i>添加到</a>
+              <!-- <a href="javascript:;"><i></i>添加到</a>
               <a href="javascript:;"><i></i>下载</a>
               <a href="javascript:;"><i></i>删除</a>
-              <a href="javascript:;"><i></i>清空列表</a>
+              <a href="javascript:;"><i></i>清空列表</a> -->
             </div>
           </div>
+          <form class="search" onsubmit="return search()">
+            <input type="text" placeholder="搜索歌曲名">
+          </form>
           <div class="music-list-box  mCustomScrollbar" data-mcs-theme="minimal-dark">
             <ul class="music-list">
               <li>
-                <div class="music-item-choose"><a href="javascript:;"><i></i></a></div>
                 <div class="music-item-number"><a></a></div>
                 <div class="music-item-name"><a>歌曲名</a></div>
                 <div class="music-item-singer"><a>歌手名</a></div>
