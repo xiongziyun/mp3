@@ -9,7 +9,7 @@ fs.readdir(folderPath, (err, files) => {
     console.error(err);
     return;
   }
-  const arr = files.filter((v) => v.endsWith(".mp3"));
+  const arr = files.filter((v) => v.endsWith(".mp3") || v.endsWith(".flac"));
   // 处理文件夹中的文件列表
   const jsonData = arr.map((v) => {
     const name = v.slice(0, -4);
