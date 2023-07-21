@@ -1,19 +1,19 @@
 [
   {
-    "name": "01. 写不完的温柔.flac",
-    "singer": "",
-    "album": "",
-    "time": "",
-    "link_url": "./source/18/01. 写不完的温柔.flac",
-    "cover": "",
-    "link_lrc": ""
-  },
-  {
     "name": "02. A.I.N.Y爱你.flac",
     "singer": "",
     "album": "",
     "time": "",
     "link_url": "./source/18/02. A.I.N.Y爱你.flac",
+    "cover": "",
+    "link_lrc": ""
+  },
+  {
+    "name": "01. 写不完的温柔.flac",
+    "singer": "",
+    "album": "",
+    "time": "",
+    "link_url": "./source/18/01. 写不完的温柔.flac",
     "cover": "",
     "link_lrc": ""
   },
@@ -72,20 +72,20 @@
     "link_lrc": ""
   },
   {
-    "name": "09. G.E.M.flac",
-    "singer": "",
-    "album": "",
-    "time": "",
-    "link_url": "./source/18/09. G.E.M.flac",
-    "cover": "",
-    "link_lrc": ""
-  },
-  {
     "name": "10. 想讲你知.flac",
     "singer": "",
     "album": "",
     "time": "",
     "link_url": "./source/18/10. 想讲你知.flac",
+    "cover": "",
+    "link_lrc": ""
+  },
+  {
+    "name": "09. G.E.M.flac",
+    "singer": "",
+    "album": "",
+    "time": "",
+    "link_url": "./source/18/09. G.E.M.flac",
     "cover": "",
     "link_lrc": ""
   },
@@ -108,20 +108,20 @@
     "link_lrc": ""
   },
   {
-    "name": "14. MASCARA(Glossy Version).flac",
-    "singer": "",
-    "album": "",
-    "time": "",
-    "link_url": "./source/18/14. MASCARA(Glossy Version).flac",
-    "cover": "",
-    "link_lrc": ""
-  },
-  {
     "name": "15. Where DID YOU GO 2.0(Sam Vahdat Remix).flac",
     "singer": "",
     "album": "",
     "time": "",
     "link_url": "./source/18/15. Where DID YOU GO 2.0(Sam Vahdat Remix).flac",
+    "cover": "",
+    "link_lrc": ""
+  },
+  {
+    "name": "14. MASCARA(Glossy Version).flac",
+    "singer": "",
+    "album": "",
+    "time": "",
+    "link_url": "./source/18/14. MASCARA(Glossy Version).flac",
     "cover": "",
     "link_lrc": ""
   },
@@ -162,11 +162,11 @@
     "link_lrc": ""
   },
   {
-    "name": "04-MASCARA（烟熏妆）.wav",
+    "name": "06-塞纳河.wav",
     "singer": "",
     "album": "",
     "time": "",
-    "link_url": "./source/18 Plus/04-MASCARA（烟熏妆）.wav",
+    "link_url": "./source/18 Plus/06-塞纳河.wav",
     "cover": "",
     "link_lrc": ""
   },
@@ -180,11 +180,11 @@
     "link_lrc": ""
   },
   {
-    "name": "06-塞纳河.wav",
+    "name": "04-MASCARA（烟熏妆）.wav",
     "singer": "",
     "album": "",
     "time": "",
-    "link_url": "./source/18 Plus/06-塞纳河.wav",
+    "link_url": "./source/18 Plus/04-MASCARA（烟熏妆）.wav",
     "cover": "",
     "link_lrc": ""
   },
@@ -207,20 +207,20 @@
     "link_lrc": ""
   },
   {
-    "name": "09-G.E.M.(GET EVERYBODY MOVING).wav",
-    "singer": "",
-    "album": "",
-    "time": "",
-    "link_url": "./source/18 Plus/09-G.E.M.(GET EVERYBODY MOVING).wav",
-    "cover": "",
-    "link_lrc": ""
-  },
-  {
     "name": "10-想讲你知.wav",
     "singer": "",
     "album": "",
     "time": "",
     "link_url": "./source/18 Plus/10-想讲你知.wav",
+    "cover": "",
+    "link_lrc": ""
+  },
+  {
+    "name": "12-18.wav",
+    "singer": "",
+    "album": "",
+    "time": "",
+    "link_url": "./source/18 Plus/12-18.wav",
     "cover": "",
     "link_lrc": ""
   },
@@ -234,11 +234,623 @@
     "link_lrc": ""
   },
   {
-    "name": "12-18.wav",
+    "name": "09-G.E.M.(GET EVERYBODY MOVING).wav",
     "singer": "",
     "album": "",
     "time": "",
-    "link_url": "./source/18 Plus/12-18.wav",
+    "link_url": "./source/18 Plus/09-G.E.M.(GET EVERYBODY MOVING).wav",
+    "cover": "",
+    "link_lrc": ""
+  },
+  {
+    "name": "01. 再见 (Club Remix).flac",
+    "singer": "",
+    "album": "",
+    "time": "",
+    "link_url": "./source/25 LOOKS/01. 再见 (Club Remix).flac",
+    "cover": "",
+    "link_lrc": ""
+  },
+  {
+    "name": "02. 多远都要在一起 (Dub Mix).flac",
+    "singer": "",
+    "album": "",
+    "time": "",
+    "link_url": "./source/25 LOOKS/02. 多远都要在一起 (Dub Mix).flac",
+    "cover": "",
+    "link_lrc": ""
+  },
+  {
+    "name": "04. 瞬间 (Dance Remix).flac",
+    "singer": "",
+    "album": "",
+    "time": "",
+    "link_url": "./source/25 LOOKS/04. 瞬间 (Dance Remix).flac",
+    "cover": "",
+    "link_lrc": ""
+  },
+  {
+    "name": "03. 泡沫 (PÀO MÒ Remix).flac",
+    "singer": "",
+    "album": "",
+    "time": "",
+    "link_url": "./source/25 LOOKS/03. 泡沫 (PÀO MÒ Remix).flac",
+    "cover": "",
+    "link_lrc": ""
+  },
+  {
+    "name": "01. One Button.wav",
+    "singer": "",
+    "album": "",
+    "time": "",
+    "link_url": "./source/A.I.N.Y/01. One Button.wav",
+    "cover": "",
+    "link_lrc": ""
+  },
+  {
+    "name": "04. 回忆的沙漏.flac",
+    "singer": "",
+    "album": "",
+    "time": "",
+    "link_url": "./source/A.I.N.Y/04. 回忆的沙漏.flac",
+    "cover": "",
+    "link_lrc": ""
+  },
+  {
+    "name": "03. Where Did U Go.flac",
+    "singer": "",
+    "album": "",
+    "time": "",
+    "link_url": "./source/A.I.N.Y/03. Where Did U Go.flac",
+    "cover": "",
+    "link_lrc": ""
+  },
+  {
+    "name": "02. Good to be Bad.flac",
+    "singer": "",
+    "album": "",
+    "time": "",
+    "link_url": "./source/A.I.N.Y/02. Good to be Bad.flac",
+    "cover": "",
+    "link_lrc": ""
+  },
+  {
+    "name": "06. 意式恋爱.flac",
+    "singer": "",
+    "album": "",
+    "time": "",
+    "link_url": "./source/A.I.N.Y/06. 意式恋爱.flac",
+    "cover": "",
+    "link_lrc": ""
+  },
+  {
+    "name": "08. 想讲你知.flac",
+    "singer": "",
+    "album": "",
+    "time": "",
+    "link_url": "./source/A.I.N.Y/08. 想讲你知.flac",
+    "cover": "",
+    "link_lrc": ""
+  },
+  {
+    "name": "07. ALL ABOUT U.flac",
+    "singer": "",
+    "album": "",
+    "time": "",
+    "link_url": "./source/A.I.N.Y/07. ALL ABOUT U.flac",
+    "cover": "",
+    "link_lrc": ""
+  },
+  {
+    "name": "05. 爱现在的我.flac",
+    "singer": "",
+    "album": "",
+    "time": "",
+    "link_url": "./source/A.I.N.Y/05. 爱现在的我.flac",
+    "cover": "",
+    "link_lrc": ""
+  },
+  {
+    "name": "09. A.I.N.Y(爱你).flac",
+    "singer": "",
+    "album": "",
+    "time": "",
+    "link_url": "./source/A.I.N.Y/09. A.I.N.Y(爱你).flac",
+    "cover": "",
+    "link_lrc": ""
+  },
+  {
+    "name": "10. MASCARA(烟熏妆).flac",
+    "singer": "",
+    "album": "",
+    "time": "",
+    "link_url": "./source/A.I.N.Y/10. MASCARA(烟熏妆).flac",
+    "cover": "",
+    "link_lrc": ""
+  },
+  {
+    "name": "11. 我不懂爱.flac",
+    "singer": "",
+    "album": "",
+    "time": "",
+    "link_url": "./source/A.I.N.Y/11. 我不懂爱.flac",
+    "cover": "",
+    "link_lrc": ""
+  },
+  {
+    "name": "12. 塞纳河.flac",
+    "singer": "",
+    "album": "",
+    "time": "",
+    "link_url": "./source/A.I.N.Y/12. 塞纳河.flac",
+    "cover": "",
+    "link_lrc": ""
+  },
+  {
+    "name": "13. G.E.M.flac",
+    "singer": "",
+    "album": "",
+    "time": "",
+    "link_url": "./source/A.I.N.Y/13. G.E.M.flac",
+    "cover": "",
+    "link_lrc": ""
+  },
+  {
+    "name": "14. 18.flac",
+    "singer": "",
+    "album": "",
+    "time": "",
+    "link_url": "./source/A.I.N.Y/14. 18.flac",
+    "cover": "",
+    "link_lrc": ""
+  },
+  {
+    "name": "17. 末日.wav",
+    "singer": "",
+    "album": "",
+    "time": "",
+    "link_url": "./source/A.I.N.Y/17. 末日.wav",
+    "cover": "",
+    "link_lrc": ""
+  },
+  {
+    "name": "16. 我的秘密.wav",
+    "singer": "",
+    "album": "",
+    "time": "",
+    "link_url": "./source/A.I.N.Y/16. 我的秘密.wav",
+    "cover": "",
+    "link_lrc": ""
+  },
+  {
+    "name": "18. Twinkle II.wav",
+    "singer": "",
+    "album": "",
+    "time": "",
+    "link_url": "./source/A.I.N.Y/18. Twinkle II.wav",
+    "cover": "",
+    "link_lrc": ""
+  },
+  {
+    "name": "15. 寂寞星球的玫瑰.wav",
+    "singer": "",
+    "album": "",
+    "time": "",
+    "link_url": "./source/A.I.N.Y/15. 寂寞星球的玫瑰.wav",
+    "cover": "",
+    "link_lrc": ""
+  },
+  {
+    "name": "19. Say it Loud.wav",
+    "singer": "",
+    "album": "",
+    "time": "",
+    "link_url": "./source/A.I.N.Y/19. Say it Loud.wav",
+    "cover": "",
+    "link_lrc": ""
+  },
+  {
+    "name": "20. Get Over You.wav",
+    "singer": "",
+    "album": "",
+    "time": "",
+    "link_url": "./source/A.I.N.Y/20. Get Over You.wav",
+    "cover": "",
+    "link_lrc": ""
+  },
+  {
+    "name": "21. The Voice Within.wav",
+    "singer": "",
+    "album": "",
+    "time": "",
+    "link_url": "./source/A.I.N.Y/21. The Voice Within.wav",
+    "cover": "",
+    "link_lrc": ""
+  },
+  {
+    "name": "G.E.M.邓紫棋-万国觉醒.flac",
+    "singer": "",
+    "album": "",
+    "time": "",
+    "link_url": "./source/万国觉醒/G.E.M.邓紫棋-万国觉醒.flac",
+    "cover": "",
+    "link_lrc": ""
+  },
+  {
+    "name": "01. 偶尔.flac",
+    "singer": "",
+    "album": "",
+    "time": "",
+    "link_url": "./source/偶尔/01. 偶尔.flac",
+    "cover": "",
+    "link_lrc": ""
+  },
+  {
+    "name": "02. 是否.flac",
+    "singer": "",
+    "album": "",
+    "time": "",
+    "link_url": "./source/偶尔/02. 是否.flac",
+    "cover": "",
+    "link_lrc": ""
+  },
+  {
+    "name": "G.E.M.邓紫棋-平行世界.flac",
+    "singer": "",
+    "album": "",
+    "time": "",
+    "link_url": "./source/平行世界/G.E.M.邓紫棋-平行世界.flac",
+    "cover": "",
+    "link_lrc": ""
+  },
+  {
+    "name": "G.E.M. 邓紫棋 - Fly Away.flac",
+    "singer": "",
+    "album": "",
+    "time": "",
+    "link_url": "./source/摩天动物园/G.E.M. 邓紫棋 - Fly Away.flac",
+    "cover": "",
+    "link_lrc": ""
+  },
+  {
+    "name": "G.E.M. 邓紫棋 - Walk on Water.flac",
+    "singer": "",
+    "album": "",
+    "time": "",
+    "link_url": "./source/摩天动物园/G.E.M. 邓紫棋 - Walk on Water.flac",
+    "cover": "",
+    "link_lrc": ""
+  },
+  {
+    "name": "G.E.M. 邓紫棋 - 依然睡公主.flac",
+    "singer": "",
+    "album": "",
+    "time": "",
+    "link_url": "./source/摩天动物园/G.E.M. 邓紫棋 - 依然睡公主.flac",
+    "cover": "",
+    "link_lrc": ""
+  },
+  {
+    "name": "G.E.M. 邓紫棋 - 句号.flac",
+    "singer": "",
+    "album": "",
+    "time": "",
+    "link_url": "./source/摩天动物园/G.E.M. 邓紫棋 - 句号.flac",
+    "cover": "",
+    "link_lrc": ""
+  },
+  {
+    "name": "G.E.M. 邓紫棋 - 好想好想你.flac",
+    "singer": "",
+    "album": "",
+    "time": "",
+    "link_url": "./source/摩天动物园/G.E.M. 邓紫棋 - 好想好想你.flac",
+    "cover": "",
+    "link_lrc": ""
+  },
+  {
+    "name": "G.E.M. 邓紫棋 - 多美丽.flac",
+    "singer": "",
+    "album": "",
+    "time": "",
+    "link_url": "./source/摩天动物园/G.E.M. 邓紫棋 - 多美丽.flac",
+    "cover": "",
+    "link_lrc": ""
+  },
+  {
+    "name": "G.E.M. 邓紫棋 - 差不多姑娘.flac",
+    "singer": "",
+    "album": "",
+    "time": "",
+    "link_url": "./source/摩天动物园/G.E.M. 邓紫棋 - 差不多姑娘.flac",
+    "cover": "",
+    "link_lrc": ""
+  },
+  {
+    "name": "G.E.M. 邓紫棋 - 很久以后.flac",
+    "singer": "",
+    "album": "",
+    "time": "",
+    "link_url": "./source/摩天动物园/G.E.M. 邓紫棋 - 很久以后.flac",
+    "cover": "",
+    "link_lrc": ""
+  },
+  {
+    "name": "G.E.M. 邓紫棋 - 摩天动物园.flac",
+    "singer": "",
+    "album": "",
+    "time": "",
+    "link_url": "./source/摩天动物园/G.E.M. 邓紫棋 - 摩天动物园.flac",
+    "cover": "",
+    "link_lrc": ""
+  },
+  {
+    "name": "G.E.M. 邓紫棋 - 灰狼.flac",
+    "singer": "",
+    "album": "",
+    "time": "",
+    "link_url": "./source/摩天动物园/G.E.M. 邓紫棋 - 灰狼.flac",
+    "cover": "",
+    "link_lrc": ""
+  },
+  {
+    "name": "G.E.M. 邓紫棋 - 萤火.flac",
+    "singer": "",
+    "album": "",
+    "time": "",
+    "link_url": "./source/摩天动物园/G.E.M. 邓紫棋 - 萤火.flac",
+    "cover": "",
+    "link_lrc": ""
+  },
+  {
+    "name": "G.E.M. 邓紫棋&周兴哲 - 别勉强.flac",
+    "singer": "",
+    "album": "",
+    "time": "",
+    "link_url": "./source/摩天动物园/G.E.M. 邓紫棋&周兴哲 - 别勉强.flac",
+    "cover": "",
+    "link_lrc": ""
+  },
+  {
+    "name": "G.E.M. 邓紫棋 - 透明.flac",
+    "singer": "",
+    "album": "",
+    "time": "",
+    "link_url": "./source/摩天动物园/G.E.M. 邓紫棋 - 透明.flac",
+    "cover": "",
+    "link_lrc": ""
+  },
+  {
+    "name": "01. 多远都要在一起.flac",
+    "singer": "",
+    "album": "",
+    "time": "",
+    "link_url": "./source/新的心跳/01. 多远都要在一起.flac",
+    "cover": "",
+    "link_lrc": ""
+  },
+  {
+    "name": "03. 新的心跳.flac",
+    "singer": "",
+    "album": "",
+    "time": "",
+    "link_url": "./source/新的心跳/03. 新的心跳.flac",
+    "cover": "",
+    "link_lrc": ""
+  },
+  {
+    "name": "02. 再见.flac",
+    "singer": "",
+    "album": "",
+    "time": "",
+    "link_url": "./source/新的心跳/02. 再见.flac",
+    "cover": "",
+    "link_lrc": ""
+  },
+  {
+    "name": "04. 来自天堂的魔鬼.flac",
+    "singer": "",
+    "album": "",
+    "time": "",
+    "link_url": "./source/新的心跳/04. 来自天堂的魔鬼.flac",
+    "cover": "",
+    "link_lrc": ""
+  },
+  {
+    "name": "05. 盲点.flac",
+    "singer": "",
+    "album": "",
+    "time": "",
+    "link_url": "./source/新的心跳/05. 盲点.flac",
+    "cover": "",
+    "link_lrc": ""
+  },
+  {
+    "name": "06. 单行的轨道.flac",
+    "singer": "",
+    "album": "",
+    "time": "",
+    "link_url": "./source/新的心跳/06. 单行的轨道.flac",
+    "cover": "",
+    "link_lrc": ""
+  },
+  {
+    "name": "07. 一路逆风.flac",
+    "singer": "",
+    "album": "",
+    "time": "",
+    "link_url": "./source/新的心跳/07. 一路逆风.flac",
+    "cover": "",
+    "link_lrc": ""
+  },
+  {
+    "name": "09. 瞬间.flac",
+    "singer": "",
+    "album": "",
+    "time": "",
+    "link_url": "./source/新的心跳/09. 瞬间.flac",
+    "cover": "",
+    "link_lrc": ""
+  },
+  {
+    "name": "10. 查克靠近.flac",
+    "singer": "",
+    "album": "",
+    "time": "",
+    "link_url": "./source/新的心跳/10. 查克靠近.flac",
+    "cover": "",
+    "link_lrc": ""
+  },
+  {
+    "name": "08. 于是.flac",
+    "singer": "",
+    "album": "",
+    "time": "",
+    "link_url": "./source/新的心跳/08. 于是.flac",
+    "cover": "",
+    "link_lrc": ""
+  },
+  {
+    "name": "01 泡沫.wav",
+    "singer": "",
+    "album": "",
+    "time": "",
+    "link_url": "./source/旗开得胜/01 泡沫.wav",
+    "cover": "",
+    "link_lrc": ""
+  },
+  {
+    "name": "02 你把我灌醉.wav",
+    "singer": "",
+    "album": "",
+    "time": "",
+    "link_url": "./source/旗开得胜/02 你把我灌醉.wav",
+    "cover": "",
+    "link_lrc": ""
+  },
+  {
+    "name": "03 A.I.N.Y爱你.wav",
+    "singer": "",
+    "album": "",
+    "time": "",
+    "link_url": "./source/旗开得胜/03 A.I.N.Y爱你.wav",
+    "cover": "",
+    "link_lrc": ""
+  },
+  {
+    "name": "05 回忆的沙漏.wav",
+    "singer": "",
+    "album": "",
+    "time": "",
+    "link_url": "./source/旗开得胜/05 回忆的沙漏.wav",
+    "cover": "",
+    "link_lrc": ""
+  },
+  {
+    "name": "06 Oh boy.wav",
+    "singer": "",
+    "album": "",
+    "time": "",
+    "link_url": "./source/旗开得胜/06 Oh boy.wav",
+    "cover": "",
+    "link_lrc": ""
+  },
+  {
+    "name": "07 Mascara烟熏妆.wav",
+    "singer": "",
+    "album": "",
+    "time": "",
+    "link_url": "./source/旗开得胜/07 Mascara烟熏妆.wav",
+    "cover": "",
+    "link_lrc": ""
+  },
+  {
+    "name": "10 存在.wav",
+    "singer": "",
+    "album": "",
+    "time": "",
+    "link_url": "./source/旗开得胜/10 存在.wav",
+    "cover": "",
+    "link_lrc": ""
+  },
+  {
+    "name": "08 塞纳河.wav",
+    "singer": "",
+    "album": "",
+    "time": "",
+    "link_url": "./source/旗开得胜/08 塞纳河.wav",
+    "cover": "",
+    "link_lrc": ""
+  },
+  {
+    "name": "09 寂寞星球的玫瑰.wav",
+    "singer": "",
+    "album": "",
+    "time": "",
+    "link_url": "./source/旗开得胜/09 寂寞星球的玫瑰.wav",
+    "cover": "",
+    "link_lrc": ""
+  },
+  {
+    "name": "11 我不懂爱.wav",
+    "singer": "",
+    "album": "",
+    "time": "",
+    "link_url": "./source/旗开得胜/11 我不懂爱.wav",
+    "cover": "",
+    "link_lrc": ""
+  },
+  {
+    "name": "12 偶尔.wav",
+    "singer": "",
+    "album": "",
+    "time": "",
+    "link_url": "./source/旗开得胜/12 偶尔.wav",
+    "cover": "",
+    "link_lrc": ""
+  },
+  {
+    "name": "04 我的秘密.wav",
+    "singer": "",
+    "album": "",
+    "time": "",
+    "link_url": "./source/旗开得胜/04 我的秘密.wav",
+    "cover": "",
+    "link_lrc": ""
+  },
+  {
+    "name": "14 下一秒.wav",
+    "singer": "",
+    "album": "",
+    "time": "",
+    "link_url": "./source/旗开得胜/14 下一秒.wav",
+    "cover": "",
+    "link_lrc": ""
+  },
+  {
+    "name": "13 不存在的存在.wav",
+    "singer": "",
+    "album": "",
+    "time": "",
+    "link_url": "./source/旗开得胜/13 不存在的存在.wav",
+    "cover": "",
+    "link_lrc": ""
+  },
+  {
+    "name": "15 The voice within（遗失的声音）.wav",
+    "singer": "",
+    "album": "",
+    "time": "",
+    "link_url": "./source/旗开得胜/15 The voice within（遗失的声音）.wav",
+    "cover": "",
+    "link_lrc": ""
+  },
+  {
+    "name": "16 爱现在的我.wav",
+    "singer": "",
+    "album": "",
+    "time": "",
+    "link_url": "./source/旗开得胜/16 爱现在的我.wav",
     "cover": "",
     "link_lrc": ""
   }
